@@ -1,0 +1,49 @@
+form{
+    margin-top: 20px;
+    background-color: darkgray;
+    border-radius: 10% ;
+}
+textarea{
+    margin-left: 50px;
+    height: 80px;
+    width: 85%;
+}
+label{
+    margin-left:5%;
+    margin-top:3%;
+    display: inline-block;
+    font-size: 20px;
+    font-family: tahoma;
+}
+input[type="text"] {
+    width: 80%;
+    height: 30px;
+}
+input[type="email"] {
+    width: 75%;
+    height: 30px;
+}
+input[type="submit"] {
+    margin: 2%;
+
+    font-size: 30px;
+}
+input[type="submit"]:hover {
+    background-color: green;
+}
+#boton {text-align: center;}
+
+input[type="text"]:focus ,input[type="email"]:focus{
+    background-color: aqua;
+}
+/*.enlrojo {
+    color: red;
+    font-size: 20px;
+}
+.enlazul{
+    color:blue;
+    font-size: 50px;
+}
+/*p span a{color: yellow;} ---> DESCENDIENTE
+/* p > a {color: yellow;} ----> HIJOS
+/* p + a {font-size: 50px;} --> ADYACENTE

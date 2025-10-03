@@ -1,0 +1,40 @@
+#cabecera {
+    background-image: url('../img/fondo-banner.png');
+    border-style: double;
+    border-width: 10px; 
+    border-color: rgb(0, 0, 0);
+}
+header > h1{
+    font-size: 50px;
+    font-family: Verdana;
+    font-style: italic;
+    font-weight: 900;
+    text-align: center;
+    color: black;
+}
+header > p{
+    font-size: 20px;
+    text-align: center;
+    font-family: Verdana;
+    font-weight: bold;
+    color: black;
+}
+#contenido {
+    background-image: url('../img/fondo.jpg');
+    border-style: inset;
+    border-color: rgb(0, 0, 0); 
+    border-width: 10px; 
+}
+h4{
+    text-decoration: underline;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+    font-family:Tahoma;
+}

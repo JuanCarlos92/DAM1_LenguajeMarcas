@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+    width: 50%
+}
+
+table th {
+    background-color: #D3D3D3;
+    font-weight: bold;
+    text-align: left;
+    padding: 1%;
+}
+table td{
+    padding: 1%;
+}
+.filaimpar {
+    background-color: yellow;
+}
+
+.filapar {
+    background-color: #afafaf;
+
+}

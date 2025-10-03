@@ -1,0 +1,75 @@
+<html>
+    <head>
+        <title>Evaluar expresiones</title>
+    </head>
+    <body>
+        <p>
+        <script>
+            if (null == undefined)  //Cierto
+            alert("cierto");
+            else
+            alert("falso");
+        </script>
+        <script>
+            if ("NaN" == NaN)       //Falso
+            alert("cierto");
+            else
+            alert("falso");
+        </script>
+        <script>
+            if (5 == NaN)           //Falso
+            alert("cierto");
+            else
+            alert("falso");
+        </script>
+        <script>
+            if (NaN == NaN)         //Falso
+            alert("cierto");
+            else
+            alert("falso");
+        </script>
+            <script>
+            if (NaN != NaN)         //Cierto
+            alert("cierto");
+            else
+            alert("falso");
+        </script>
+        <script>
+            if (false == 0)         //Cierto
+            alert("cierto");
+            else
+            alert("falso");
+        </script>
+        <script>
+            if (true == 1)          //Cierto
+            alert("cierto");
+            else
+            alert("falso");
+        </script>
+        <script>
+            if (true == 2)          //Falso
+            alert("cierto");
+            else
+            alert("falso");
+        </script>
+        <script>
+            if (undefined == 0)     //Falso
+            alert("cierto");
+            else
+            alert("falso");
+        </script>
+        <script>
+            if (null = 0)           //Falso
+            alert("cierto");
+            else
+            alert("falso");
+        </script>
+        <script>
+            if ("5" == 5)           //Cierto
+            alert("cierto");
+            else
+            alert("falso");
+        </script>
+        </p>
+    </body>
+</html>

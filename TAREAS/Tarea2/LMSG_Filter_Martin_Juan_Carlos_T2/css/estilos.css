@@ -1,0 +1,40 @@
+#contenedor {width: 70%; margin: auto}
+#menu {
+    background-image: url('../img/menu.jpg');
+    border-style: inset;
+    border-color: rgb(0, 0, 0); 
+    border-width: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+span > a{
+    font-size: 30px;
+    margin: 10%;
+    font-family: monospace;
+    text-decoration: none;
+}
+span> a:hover{color:red}
+
+#pie {
+    border-style: inset;
+    border-color: rgb(0, 0, 0); 
+    border-width: 10px;
+}
+
+footer p{
+    color: red;
+    text-align: center;
+    font-style: italic;
+    font-family: fantasy;
+    font-size: 20px;
+}
+time{
+    font-style: italic;
+}
+li{
+    list-style-type: square;
+    text-align: justify;
+    font-family:Tahoma;
+}

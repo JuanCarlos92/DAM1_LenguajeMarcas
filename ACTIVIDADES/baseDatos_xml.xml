@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <personal_havok_summers>
+
+        <empleado idEmpresa="1AAAB09">
+
+            <categoria>Programador Junior</categoria>
+
+            <salario>12.000</salario>
+
+            <permanencia tiempo="dias">1000</permanencia>
+
+        </empleado>
+
+        <empleado idEmpresa="3AXF01">
+
+            <categoria>Programador Junior</categoria>
+
+            <salario>14.500</salario>
+
+            <permanencia tiempo="años">2</permanencia>
+
+        </empleado>
+
+        <empleado idEmpresa="9XX756A">
+
+            <categoria>Programador Senior</categoria>
+
+            <salario>17.000</salario>
+
+            <permanencia tiempo="meses">8</permanencia>
+
+        </empleado>
+
+        <empleado idEmpresa="9$DD90">
+
+            <categoria>Programador Senior</categoria>
+
+            <salario>16.500</salario>
+
+            <permanencia tiempo="dias">300</permanencia>
+
+        </empleado>
+
+        <empleado idEmpresa="AZ0091">
+
+            <categoria>Jefe de Proyecto</categoria>
+
+            <salario>25.000</salario>
+
+            <permanencia tiempo="años">7</permanencia>
+
+        </empleado>
+
+        <empleado idEmpresa="1">
+
+            <categoria>Gerente</categoria>
+
+            <salario>50.000</salario>
+
+            <permanencia tiempo="años">12</permanencia>
+
+        </empleado>
+
+        <empleado idEmpresa="AS155AA1">
+
+            <categoria>Analista de Desarrollo</categoria>
+
+            <salario>21.300</salario>
+
+            <permanencia tiempo="años">3</permanencia>
+
+        </empleado>
+
+        <empleado idEmpresa="APQ131SL1">
+
+            <categoria>Analista de Desarrollo</categoria>
+
+            <salario>23.250</salario>
+
+            <permanencia tiempo="años">2</permanencia>
+
+        </empleado>
+
+        <empleado idEmpresa="XA8923FH">
+
+            <categoria>Diseñador Web</categoria>
+
+            <salario>17.755</salario>
+
+            <permanencia tiempo="meses">9</permanencia>
+
+        </empleado>
+
+    </personal_havok_summers>

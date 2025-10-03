@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta content="text/html; charset=utf-8" http-equiv="content-Type">
+        <link type="text/css" rel="stylesheet" href="./css/contacto.css"/>
+        <title>CONTACTO</title>
+    </head>
+    <body>
+        <div id="contenedor">
+
+            <div id="cabecera">
+                <header>
+                    <h1>CONTACTO</h1>
+                    <p>En esta pagina disponemos de un formulario para poder contactar con nosotros.</p>
+                </header>
+            </div>
+
+            <div id="menu">
+                <nav>
+                    <span><a href="index.html">Inicio</a></span>
+                    <span><a href="articulos.html">Articulos</a></span>
+                </nav>
+            </div>
+
+                <section>
+
+                    <form action="mailto:tarea2@foc.es" method="post">
+                        <fieldset>
+                            <legend><h3>Datos personales</h3></legend>
+                            <p>Nombre:</p>
+                            <label for="Nombre"><input name="Nombre" type="text" size="30" maxlength="20" autofocus placeholder="Pon tu Nombre" required></label>
+                            <p>Apellidos:</p>
+                            <label for="Apellidos"><input name="Apellido" type="text" size="30" maxlength="20" placeholder="Pon tu Apellido" required></label>
+                            <p>Email:</p>
+                            <label for="Email"><input name="Email" type="email" size="30" maxlength="30" placeholder="email@gmail.com" required></label>
+                            <p>Edad:</p>
+                            <label for="Edad"> <input name="Edad" type="number" min="10" max="100" placeholder="1-99" required></label>
+                            <p>Observaciones:</p>
+                            <label for="Observaciones"></label>
+                            <textarea cols="60" rows="5" maxlength="300" placeholder="300 caracteres max"></textarea>
+                            </br>
+                            <input type="submit" value="Enviar Informacion">
+                            <input type="reset" value="Limpiar Datos">
+                        </fieldset>
+                    </form>
+                </section>
+
+            <div id="pie">
+                <footer>
+                    <p>Datos alumno:</p>
+                    <p>Juan Carlos Filter Martin DNI: XXXXXXXXW</p>
+                </footer>
+            </div>
+        </div>
+
+    </body>
+</html>

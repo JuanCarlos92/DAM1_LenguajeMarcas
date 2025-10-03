@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<informacion_persona>
+    <persona>
+        <nombre>Juan Carlos</nombre>
+        <apellido>Filter</apellido>
+        <apellido>Martin</apellido>
+        <dni>11111111T</dni>
+        <edad>31</edad>
+    </persona>
+    <persona>
+        <nombre>Alberto</nombre>
+        <apellido>Jimenez</apellido>
+        <apellido>Rodriguez</apellido>
+        <dni>12121212S</dni>
+        <edad>24</edad>
+    </persona>
+</informacion_persona>

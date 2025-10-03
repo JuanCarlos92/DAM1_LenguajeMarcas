@@ -1,0 +1,20 @@
+<jugadores>
+    <jugador>
+    <nombre>Casillas</nombre>
+    <equipo>Real Madirid</equipo>
+    <posicion>Portero</posicion>
+    <sueldo>500€</sueldo>
+    </jugador>
+    <jugador>
+    <nombre>Raul</nombre>
+    <equipo>Real Madirid</equipo>
+    <posicion>Delantero</posicion>
+    <sueldo>1000€</sueldo>
+    </jugador>
+    <jugador>
+    <nombre>Mesi</nombre>
+    <equipo>Barcelona</equipo>
+    <posicion>Delantero</posicion>
+    <sueldo>2000€</sueldo>
+    </jugador>
+    </jugadores>

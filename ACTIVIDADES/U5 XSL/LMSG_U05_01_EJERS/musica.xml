@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="musica.xsl"?>
+<catalog>
+	<cd>
+		<title>Hide your heart</title>
+		<artist>Bonnie Tyler</artist>
+		<country>UK</country>
+		<company>CBS Records</company>
+		<price>9.90</price>
+		<year>1988</year>
+	</cd>
+		<cd>
+		<title>Pavarotti Gala Concert</title>
+		<artist>Luciano Pavarotti</artist>
+		<country>UK</country>
+		<company>DECCA</company>
+		<price>9.90</price>
+		<year>1991</year>
+	</cd>
+	<cd>
+		<title>The dock of the bay</title>
+		<artist>Otis Redding</artist>
+		<country>USA</country>
+		<company>Atlantic</company>
+		<price>7.90</price>
+		<year>1987</year>
+	</cd>
+	<cd>
+		<title>Picture book</title>
+		<artist>Simply Red</artist>
+		<country>EU</country>
+		<company>Elektra</company>
+		<price>7.20</price>
+		<year>1985</year>
+	</cd>
+</catalog>	

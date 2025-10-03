@@ -1,0 +1,12 @@
+<INVENTARIO>
+<EQUIPO precio="500€">
+<IDENTIFICADOR id="Equipo1"/>
+<TIPO>Intel Celeron</TIPO>
+<MEMORIA>4 GB</MEMORIA>
+</EQUIPO>
+<EQUIPO precio="1000€" precio2="2500€">
+<IDENTIFICADOR id="Equipo2"/>
+<TIPO>Intel I5</TIPO>
+<MEMORIA>16 GB</MEMORIA>
+</EQUIPO>
+</INVENTARIO>

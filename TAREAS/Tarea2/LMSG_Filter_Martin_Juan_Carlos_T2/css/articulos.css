@@ -1,0 +1,64 @@
+#cabecera {
+    background-image: url('../img/banner.jpg');
+    border-style: double;
+    border-width: 10px; 
+    border-color: rgb(0, 0, 0); 
+}
+header > h1{
+    font-size: 50px;
+    font-family:Impact;
+    font-style: oblique;
+    margin-left: 10%;
+    color: white;
+}
+header > p{
+    font-size: 20px;
+    font-family:Impact;
+    margin-left: 2%;
+    color: white;
+}
+#contenido {
+    background-image: url('../img/fondo.jpg');
+    border-style: inset;
+    border-color: rgb(0, 0, 0); 
+    border-width: 10px; 
+    text-align: center;
+}
+h3{
+    font-weight: bold;
+    font-family:'Gill Sans MT', sans-serif;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.tituloArt{
+    text-align: center;
+}
+.particulo{
+    text-align: justify;
+    font-family:Tahoma;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.Chollo{
+    margin-left: 40%;
+    margin-bottom: -4%;
+    font-family:Arial;
+    font-size: 30px;
+    border: 1px solid blue;
+    background-color: aqua;
+    width: 160px;
+    transform: rotate(-30deg);
+    text-align: center;
+}
+.descuento{
+    margin-left: 53%;
+    margin-bottom: -4%;
+    font-family:Arial;
+    font-size: 30px;
+    border: 1px solid blue;
+    background-color: red;
+    width: 70px;
+    transform: rotate(20deg);
+    text-align: center;
+}

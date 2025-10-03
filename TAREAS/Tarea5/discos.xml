@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="discos.xslt"?>
+<catalog>
+	<cd>
+		<title>Sgt. Pepper's Lonely Hearts Club Band</title>
+		<artist>The Beatles</artist>
+		<anio>1967</anio>
+		<discografy>Capitol</discografy>
+		<format>LP</format>
+	</cd>
+	<cd>
+		<title>What's Going On</title>
+		<artist>Marvin Gaye </artist>
+		<anio>1971</anio>
+		<discografy>Motown</discografy>
+		<format>K7</format>
+	</cd>
+	<cd>
+		<title>Blood on the Tracks </title>
+		<artist>Bob Dylan</artist>
+		<anio>1975</anio>
+		<discografy>Columbia</discografy>
+		<format>LP</format>
+	</cd>
+	<cd>
+		<title>Back to Mono (1958-1969)</title>
+		<artist>Phil Spector</artist>
+		<anio>1991</anio>
+		<discografy>Abkco</discografy>
+		<format>CD</format>
+	</cd>
+	<cd>
+		<title>Physical Graffiti</title>
+		<artist>Led Zeppelin</artist>
+		<anio>1975</anio>
+		<discografy>Atlantic</discografy>
+		<format>LP</format>
+	</cd>
+	<cd>
+		<title>Back In Black</title>
+		<artist>AC/DC</artist>
+		<anio>1980</anio>
+		<discografy>Atlantic</discografy>
+		<format>K7</format>
+	</cd>
+</catalog>

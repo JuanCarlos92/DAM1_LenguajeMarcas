@@ -1,0 +1,37 @@
+.titulo{
+    text-align: center;
+}
+form{
+    padding: 10px;
+    max-width: 740px; 
+    margin: auto;
+    background-color: #b5b5b5;
+}
+label{
+    float: left;
+    padding-right: 10px;
+}
+#email{
+    margin-left: 235px;
+}
+#password{
+    margin-left: 5px
+}
+#usuario{
+    margin-left: 150px
+}
+button[type="submit"]{
+    margin-top: 5px;
+    margin-left: 130px;
+
+}
+button[type="reset"]{
+    margin-top: 5px;
+    margin-left: 250px;
+}
+#nombre{
+    margin-left: 215px
+}
+.errores{
+    background-color: red;
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta>
+    <title>Formulario</title>
+    <link type="text/css" rel="stylesheet" href="./css/estilos.css"/>
+    <script type="text/javascript" src="./js/javascript.js"></script>
+</head>
+<body>
+    
+    <h1 class="titulo">Datos a enviar desde el formulario.</h1>
+
+    <form action="mailto:juancarlosfilter@gmail.com" method="post" onsubmit="return validarFormulario()">
+        
+        <label>Introduce un email (p.e.: pepe@foc.es):</label>
+        <input type="email" id="email" name="email" required>
+        <button type="button" onclick="validarEmail()">Validar</button><br></br>
+
+        <label>Introduce una contraseña (5 caracteres, al menos 1 May, 1 Min, 1 Número):</label>
+        <input type="password" id="password" name="password" required>
+        <button type="button" onclick="validarPassword()">Validar</button><br></br>
+
+        <label>Introduce Nombre de usuario (tres o más caracteres):</label>
+        <input type="text" id="usuario" name="usuario" required>
+        <button type="button" onclick="validarUsuario()">Validar</button><br></br>
+
+        <label>Introduce Nombre y apellido (obligatorio):</label>
+        <input type="text" id="nombre" name="nombre" required>
+        <button type="button" onclick="validarNombre()">Validar</button>
+
+        <button type="submit" onclick="validarFormulario()">Control total + Enviar</button>
+        <button type="reset" onclick="limpiar()">Limpiar los campos</button>
+
+    </form>
+    
+</body>
+
+</html>
